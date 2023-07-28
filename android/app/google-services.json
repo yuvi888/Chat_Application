@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "974950157913",
+    "project_id": "rocks-1ce91",
+    "storage_bucket": "rocks-1ce91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974950157913:android:4de54ab1a17252c6cb2b48",
+        "android_client_info": {
+          "package_name": "com.example.rocks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974950157913-ve40sbv03eroeusj517tba7qjijj5r55.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rocks",
+            "certificate_hash": "96cc464556695b03c3a46894581869f339492b06"
+          }
+        },
+        {
+          "client_id": "974950157913-0dg3oa5bq3kgq8ddp72stod0pr7vdbrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsMzBcXZaZwA_3Gm9xvETME2UcnBdmR7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974950157913-0dg3oa5bq3kgq8ddp72stod0pr7vdbrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
